@@ -1,0 +1,33 @@
+# MPLAB X build outputs
+build/
+debug/
+dist/
+
+# Compiled files
+*.hex
+*.elf
+*.o
+*.p1
+*.p1.d
+*.i
+*.map
+*.lst
+*.hxl
+*.cmf
+*.mum
+*.rlf
+*.sdb
+*.sym
+
+# MPLAB private configuration
+nbproject/private/
+
+# Temporary files
+*.bak
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# Local structure inventory
+structure.txt
